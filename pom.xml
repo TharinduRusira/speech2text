@@ -4,4 +4,11 @@
   <artifactId>sphinx</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  <repositories>
+  	<repository>
+    	<id>ow2 Legacy Releases</id>
+    	<url>http://repository.ow2.org/nexus/content/repositories/ow2-legacy/</url>
+ 	</repository> 
+  </repositories>
+  
 </project>
